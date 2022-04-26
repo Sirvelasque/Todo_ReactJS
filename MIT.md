@@ -1,7 +1,10 @@
-## Copyright 2021, YOUR_NAME
+## Copyright 2021, RaoAkif
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this _*Project Name*_ and associated documentation files, to deal in the _*Project Name*_ without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the _*Project Name*_, and to permit persons to whom the _*Project Name*_ is furnished to do so, subject to the following conditions:
+###### Please delete this line and the next one
+###### APP TYPE can be a webpage/website, a web app, a software and so on
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the _*Project Name*_.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this *_Todo-ReactJS_* and associated documentation files, to deal in the *_Todo-ReactJS_* without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the *_Todo-ReactJS_*, and to permit persons to whom the *_Todo-ReactJS_* is furnished to do so, subject to the following conditions:
 
-THE _*Project Name*_ IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE _*Project Name*_ OR THE USE OR OTHER DEALINGS IN THE _*Project Name*_.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the *_Todo-ReactJS_*.
+
+THE *_Todo-ReactJS_* IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE *_Todo-ReactJS_* OR THE USE OR OTHER DEALINGS IN THE *_Todo-ReactJS_*.

@@ -1,51 +1,35 @@
-# Todo React
+# Todo ReactJS
 
-> This repository contains Webpack Template.
-
-
-## Get Started
-- [Live Site](http://GITHUB_ID.github.io/...)
-- [Live Demo Link](https://www.loom.com/share/...)
+> CRUD Operation for To Dos
 
 
-# Getting Started with Create React App
+## Built With
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- React
 
-## Available Scripts
 
-In the project directory, you can run:
+## Getting Started
 
-### `npm start`
+Use the following steps to run this Project locally:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Clone the repo
+`git clone https://github.com/RaoAkif/Todo_ReactJS.git`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Enter in to the folder:
+`cd TodoList`
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
+- Open the terminal and install packages
+`npm i`
+- Run this command to run project locally:
+`npm start`
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/GITHUB_ID)
-- Twitter: [@twitterhandle](https://twitter.com/GITHUB_ID)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/GITHUB_ID)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@raoakif](https://github.com/RaoAkif)
+- Twitter: [@raoakif](https://twitter.com/RaoAkif)
+- LinkedIn: [RaoAkif](https://linkedin.com/in/RaoAkif)
 
 
 ## 🤝 Contributing
@@ -64,8 +48,7 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 
+
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-
-
